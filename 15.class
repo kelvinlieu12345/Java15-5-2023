@@ -1,0 +1,8 @@
+import java.util.*
+
+function static main(String []){
+  System.out.println('Java')
+  
+}
+
+#command javac 15.class java 15.java
